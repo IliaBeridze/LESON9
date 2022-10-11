@@ -85,3 +85,37 @@
   bottom: 35px;
 
 }
+
+.load-more {
+  font-size: 30px;
+  color: #707070;
+  text-align: center;
+  margin-top: 52px;
+  
+
+}
+
+.footer {
+  width: 100%;
+  background-color: #2E2E2E;
+  height: 207px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.contacts {
+  color: #fff;
+  font-size: 13px;
+}
+.contacts p {
+  font-size: 20px;
+}
+
+.footer-icone {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 34px;
+}
